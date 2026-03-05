@@ -1,0 +1,28 @@
+[1] Reuters Institute for the Study of Journalism. Digital News Report 2023. 
+   University of Oxford, 2023. [Електронний ресурс] - Режим доступу: 
+   https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2023-06/Digital_News_Report_2023.pdf
+[2] Google Fact Check Explorer. Google News Initiative. 
+   [Електронний ресурс] - Режим доступу: 
+   https://toolbox.google.com/factcheck/explorer
+
+[3] Fact Check Tools API. Google Developers. [Електронний ресурс] - 
+   Режим доступу: https://developers.google.com/fact-check/tools/api
+[4] StopFake. Про проєкт StopFake: верифікація фактів та боротьба 
+   з дезінформацією. [Електронний ресурс] - Режим доступу: 
+   https://www.stopfake.org/uk/pro-nas/
+
+[5] VoxCheck. Проєкт перевірки фактів VoxUkraine. [Електронний ресурс] - 
+   Режим доступу: https://voxukraine.org/uk/voxcheck/
+
+[6] FakeCheck.in.ua. Калькулятор фейкових новин. [Електронний ресурс] - 
+   Режим доступу: https://fakecheck.in.ua/
+
+[7] Gwara Media. Перевірка разом: Telegram-бот для фактчекінгу. 
+   [Електронний ресурс] – Режим доступу: 
+   https://gwaramedia.com/perevirka-razom-smozhemo/
+
+[8] PolitiFact. Fact-checking U.S. politics. [Електронний ресурс] - 
+   Режим доступу: https://www.politifact.com/
+
+[9] Fake News Research. Simon Fraser University. [Електронний ресурс] - 
+   Режим доступу: http://fakenews.research.sfu.ca/
