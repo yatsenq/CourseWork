@@ -26,3 +26,10 @@
 
 [9] Fake News Research. Simon Fraser University. [Електронний ресурс] - 
    Режим доступу: http://fakenews.research.sfu.ca/
+
+[10] Pedregosa F. et al. Scikit-learn: Machine Learning in Python.
+Journal of Machine Learning Research, 12, 2011. - P. 2825-2830.
+[Електронний ресурс] - Режим доступу:
+https://jmlr.csail.mit.edu/papers/v12/pedregosa11a.html
+
+[11] Pymorphy3: Morphological analyzer Ukrainian language. Python Package Index (PyPI). [Електронний ресурс] – Режим доступу: https://pypi.org/project/pymorphy3/
